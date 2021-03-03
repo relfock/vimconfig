@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/andrew/mc-utils/config'
+let g:netrw_dirhist_2='/home/andrew/mc-utils/config/lx2162aqds'
+let g:netrw_dirhist_3='/home/andrew/mc-utils/config'
+let g:netrw_dirhist_4='/home/andrew/mc-utils/config/lx2160a'
+let g:netrw_dirhist_5='/home/andrew/mc-utils/config/lx2160a/RDB'
+let g:netrw_dirhist_6='/home/andrew/mc-utils/config/lx2160a'
+let g:netrw_dirhist_7='/home/andrew/mc-utils/config/lx2160a/QDS'
+let g:netrw_dirhist_8='/home/andrew/projects/amc705/trunk/u-boot/board/freescale/lx2160a_amc705'
+let g:netrw_dirhist_9='/home/andrew/projects/amc705/trunk/dtb'
